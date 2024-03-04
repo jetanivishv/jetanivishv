@@ -1,3 +1,4 @@
+![my banner](https://github.com/jetanivishv/jetanivishv/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Vishv Jetani</h1>
 <h3 align="center">Enthusiastic Computer Science Student and Code Enthusiast</h3>
 
